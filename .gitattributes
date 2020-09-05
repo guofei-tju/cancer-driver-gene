@@ -2,3 +2,4 @@ LUAD.zip filter=lfs diff=lfs merge=lfs -text
 LUSC.zip filter=lfs diff=lfs merge=lfs -text
 OV.zip filter=lfs diff=lfs merge=lfs -text
 PAAD.zip filter=lfs diff=lfs merge=lfs -text
+SKCM.zip filter=lfs diff=lfs merge=lfs -text
